@@ -1,8 +1,8 @@
 ### Greetings humans, my name's Cecilia! :alien:
 
-I'm a junior Front-End developer:computer: and passionate about music production/software/composition:notes:.
+I'm a junior Front-End developer:computer: and I'm passionate about music production/software/composition:notes:.
 
-You will find here my repositories, both from group and personal projects.  
+You will find my repositories both from group and personal projects here.  
 <!--
 **ctalloc/ctalloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,13 @@
 
 I'm a junior Front-End developer:computer: and I'm passionate about music production/software/composition:notes:.
 
-You will find my repositories both from group and personal projects here.  
+I <3 working on music on Ableton Live, but let's talk about my Dev Tools: 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctalloc&theme=tokyonight)
+
+
+
+
 <!--
 **ctalloc/ctalloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

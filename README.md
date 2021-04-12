@@ -4,7 +4,7 @@ I'm a junior Front-End developer:computer: and I'm passionate about music produc
 
 I <3 working on music on Ableton Live, but let's talk about my Development Tools :mute: : 
 
-### :fast_forward: Front-end :fast_forward:
+<code>### :fast_forward: Front-end :fast_forward:</code>
 
 These are the tools I feel most comfortable with. There's a special place in my heart for React and SASS.
 

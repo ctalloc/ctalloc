@@ -49,7 +49,12 @@ I <3 working on music on Ableton Live, but let's talk about my Development Tools
 <img height="20" src="https://camo.githubusercontent.com/72a1f2fe34a7180ba61f9af08569dad628f2b4a3eb1ff3f07cadc608607b1752/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666c6174266c6162656c266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465">
 </p>
 
-:chart_with_upwards_trend: 	Sprinkling with some statistics :chart_with_downwards_trend:: 
+### What I am working on right now! (Soon :tm:)
+
+
+<a src="https://github.com/ctalloc/Cat-Petting-Simulator"> </a>
+
+####:chart_with_upwards_trend: 	Sprinkling with some statistics :chart_with_downwards_trend:: 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctalloc&theme=tokyonight)

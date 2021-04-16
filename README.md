@@ -51,7 +51,7 @@ I <3 working on music on Ableton Live, but let's talk about my Development Tools
 
 ### What I am working on right now! (Soon :tm:)
 
--A [Cat Petting Simulator]((https://github.com/ctalloc/Cat-Petting-Simulator) JavaScript game trying to emulate the randomness of cat reactions to receiving pets.
+-A [Cat Petting Simulator](https://github.com/ctalloc/Cat-Petting-Simulator) JavaScript game trying to emulate the randomness of cat reactions to receiving pets.
 
 -Practicing some cool CSS glitchy animations on my first development team website <a src="https://github.com/ctalloc/Equipo-Sexto-Sentido">Equipo Sexto Sentido</a>.
 

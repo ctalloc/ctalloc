@@ -53,10 +53,10 @@ I <3 working on music on Ableton Live, but let's talk about my Development Tools
 
 -A [Cat Petting Simulator](https://github.com/ctalloc/Cat-Petting-Simulator) JavaScript game trying to emulate the randomness of cat reactions to receiving pets.
 
--Practicing some cool CSS glitchy animations on my first development team website <a src="https://github.com/ctalloc/Equipo-Sexto-Sentido">Equipo Sexto Sentido</a>.
+-Practicing some cool CSS glitchy animations on my first development team website [Equipo Sexto Sentido](https://github.com/ctalloc/Equipo-Sexto-Sentido).
 
 -Practicing and learning more about JavaScript with Wes Bos's JavaScript30 challenge:
-    <a src="https://github.com/ctalloc/JS-Oniric-DrumKit"> First day: Java Script DrumKit </a>
+     First day: [Java Script DrumKit](https://github.com/ctalloc/JS-Oniric-DrumKit)
  
 
 ####:chart_with_upwards_trend: 	Sprinkling with some statistics :chart_with_downwards_trend:: 

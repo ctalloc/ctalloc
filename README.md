@@ -59,7 +59,7 @@ I <3 working on music on Ableton Live, but let's talk about my Development Tools
      First day: [Java Script DrumKit](https://github.com/ctalloc/JS-Oniric-DrumKit)
  
 
-####:chart_with_upwards_trend: 	Sprinkling with some statistics :chart_with_downwards_trend:: 
+#### :chart_with_upwards_trend: 	Sprinkling with some statistics :chart_with_downwards_trend:: 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctalloc&theme=tokyonight)

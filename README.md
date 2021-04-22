@@ -57,7 +57,8 @@ I <3 working on music on Ableton Live, but let's talk about my Development Tools
 
 -Practicing and learning more about JavaScript with Wes Bos's JavaScript30 challenge:
      First day: [Java Script DrumKit](https://github.com/ctalloc/JS-Oniric-DrumKit)
--Wroking on CRUD applications with Node.js, Express, React and MongoDB/MySQL
+     
+-Working on CRUD applications with Node.js, Express, React and MongoDB/MySQL
  
 
 #### :chart_with_upwards_trend: 	Sprinkling with some statistics :chart_with_downwards_trend:: 

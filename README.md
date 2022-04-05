@@ -28,10 +28,6 @@ I <3 working on music on Ableton Live, but let's talk about my Development Tools
 <img height="20" src="https://camo.githubusercontent.com/b34364bd16db0a2c5126530de8828c1f6a83c95f351141245cf4e0eb9955ba27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666c6174266c6162656c266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"> 
 </p>
 
-### :triangular_ruler: Other working tools :scissors:
-
-<code>Some of the tools I've worked with in my dev experience.</code>
-
 <p float="left"> 
 <img height="20" src="https://camo.githubusercontent.com/de060ad512043abf6ce5bf047be83ab0acbbc2f4c478df91aafb8119993adb1b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6769742d4630353033322e7376673f7374796c653d666c6174266c6162656c266c6f676f3d676974266c6f676f436f6c6f723d7768697465">
 <img height="20" src="https://camo.githubusercontent.com/19fd23fc04f7404620653bc47bfe02914b05c735cb102bf3c526d2455acc6cb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e706d2d4343333533342e7376673f7374796c653d666c6174266c6162656c266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465">
@@ -39,27 +35,6 @@ I <3 working on music on Ableton Live, but let's talk about my Development Tools
 <img height="20" src="https://camo.githubusercontent.com/8ff33349c23f4efa762d628c56daa566c8d574f191dc47b5600e7cf2d191b049/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f73746d616e2d6666366333372e7376673f7374796c653d666c6174266c6162656c266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465"> 
  <img height="20" src="https://camo.githubusercontent.com/31d79cd7978fd59e2cfb1cb2b91279ae0b4fcfdd3a3e86741eaddcb145987948/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143432e7376673f7374796c653d666c6174266c6162656c266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"> 
 </p>
-
-### :calling: Communication tools :mailbox_with_mail:
-
-<code>Some of the tools I have experience working with for remote jobs. </code>
-<p float="left"> 
-<img height="20" src="https://camo.githubusercontent.com/f5a05d76a75e8005cda8053f465eed45896b0ba5bfdbacd1f5bc5064f94374ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666c6174266c6162656c266c6f676f3d736c61636b266c6f676f436f6c6f723d7768697465">
-<img height="20" src="https://camo.githubusercontent.com/c78da00058a0196ce7b15d1e9466ae5477bedad954f3139a0ca334d854dc5926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7a6f6f6d2d3244384346463f7374796c653d666c6174266c6162656c266c6f676f3d7a6f6f6d266c6f676f436f6c6f723d7768697465">
-<img height="20" src="https://camo.githubusercontent.com/72a1f2fe34a7180ba61f9af08569dad628f2b4a3eb1ff3f07cadc608607b1752/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666c6174266c6162656c266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465">
-</p>
-
-### What I am working on right now! (Soon :tm:)
-
--A [Cat Petting Simulator](https://github.com/ctalloc/Cat-Petting-Simulator) JavaScript game trying to emulate the randomness of cat reactions to receiving pets.
-
--Practicing some cool CSS glitchy animations on my first development team website [Equipo Sexto Sentido](https://github.com/ctalloc/Equipo-Sexto-Sentido).
-
--Practicing and learning more about JavaScript with Wes Bos's JavaScript30 challenge:
-     First day: [Java Script DrumKit](https://github.com/ctalloc/JS-Oniric-DrumKit)
-     
--Working on CRUD applications with Node.js, Express, React and MongoDB/MySQL
- 
 
 #### :chart_with_upwards_trend: 	Sprinkling with some statistics :chart_with_downwards_trend:: 
 
